@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[3]:
-
-
 # Imports from Retrieve WiFi Password Script
 import subprocess
 import os
@@ -369,16 +363,3 @@ def main():
         print("The script will end.")
 
 main()
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
